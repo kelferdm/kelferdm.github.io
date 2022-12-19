@@ -30,4 +30,13 @@ knitr::include_graphics("../media/thlayli.jpg")
 
 ## [No-kill animal shelter analysis by county](./bestfriends.html)
 
+<br><br><br>
+
+
+```{r out.width='300px',out.height='250px'}
+knitr::include_graphics("../media/2012-11-22_1353619548.jpg")
+```
+
+## [ShinyApp for spreadsheet data cleaning](https://academic-utahvalley.shinyapps.io/Academic_Success_Project/){target="_blank"}
+
 
