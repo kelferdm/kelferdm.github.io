@@ -10,6 +10,19 @@ knitr::opts_chunk$set(echo = FALSE,message=FALSE,warning=FALSE)
 
 # [**About me**](https://kelferdm.github.io/about-me) | [**Portfolio**](https://kelferdm.github.io/projects) | [**Resume**](https://kelferdm.github.io/resume/Resume_KM_2023.pdf){target="_blank"}
 
-```{r, fig.align='right',out.width='400px',out.height='400px',out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("../media/selfie.jpg")
+<br>
+___
+
+<br>
+
+
+
+```{r, fig.align='right',out.width='200px',out.height='250px',out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("../media/kellyface.jpg")
 ```
+
+  - I speak R, SQL, and Bash
+  - I like [dogs](../media/indy.jpg)
+  - I like [baking](../media/00100lPORTRAIT_00100_BURST20190818104653919_COVER.jpg)
+  - I like [gardening](../media/garden.jpg)
+

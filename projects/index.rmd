@@ -1,8 +1,0 @@
----
-output: html_document
----
-
-# Projects
-
-
-![thalyli](thlayli.jpg)
